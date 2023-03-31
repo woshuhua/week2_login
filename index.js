@@ -66,4 +66,5 @@ function register(newusername, newpassword, newname, newemail){
 //console.log(login("utem","1he82"))
 
 //try to register
-register("Wong","utem1038","Uine13", "utem1372@shdu.com")
+register("utem","utem1038","Uine13", "utem1372@shdu.com")
+console.log(login("utem","utem1038"))
